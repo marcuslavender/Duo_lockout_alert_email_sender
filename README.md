@@ -5,7 +5,7 @@ Can upgrade to a paid account if more emails a day are being sent.
 
 To run execute: 
 
-**python3 Do_app_loggin_email_sender.py**
+**python3 Duo_app_loggin_email_sender.py**
 
 Will need to contruct a .ini file in the cloned directory named 'API-params.ini'
 
